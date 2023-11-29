@@ -1,0 +1,3 @@
+[submodule "sr_training"]
+	path = sr_training
+	url = https://github.com/kaist-ina/NAS_public.git

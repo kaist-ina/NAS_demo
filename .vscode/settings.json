@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./pensieve",        
+        "./super_resolution"
+    ]
+}

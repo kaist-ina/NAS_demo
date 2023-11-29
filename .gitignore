@@ -1,0 +1,11 @@
+*.pyc
+
+dnn_processor/downloads
+dnn_processor/tmp_video
+dnn_processor/dnn_log
+
+pensieve/post_log
+
+*.zip
+*.log
+log*
